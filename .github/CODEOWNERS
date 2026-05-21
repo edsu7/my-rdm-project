@@ -1,0 +1,4 @@
+# Automatically request reviews from designated owners when these paths change
+/analysis/   @owner-username
+*.R          @owner-username
+/docs/       @contributor-username
